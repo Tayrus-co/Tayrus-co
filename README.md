@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💻 Tayrus-co | Girişimci & Yazılım Geliştirici & Economist
 
-<!--
-**Tayrus-co/Tayrus-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben Tayrus. İktisat okuyorum. Aynı zamanda yazılım geliştiriyorum ve girişimcilik üzerine çalışıyorum. 🚀
 
-Here are some ideas to get you started:
+## 📌 Hakkımda  
+- 💼 **Tayrus** şirketinin kurucusuyum.  
+- 🔥 Yazılım, girişimcilik ve siber güvenlik konularına ilgim var.  
+- 🌱 Şu anda **JavaScript, C# ve Linux** üzerine çalışıyorum.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kullandığım Teknolojiler  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,linux" />
+</div>
+
+## 📊 GitHub İstatistiklerim  
+![Tayrus-co's GitHub Stats]
+
+## 📫 Bana Ulaşın  
+📩 **Email:** iletisim@tahapelen.com  
+🔗 **LinkedIn:** [Profilim](https://www.linkedin.com/in/taha-pelen-9324a1291/)  
