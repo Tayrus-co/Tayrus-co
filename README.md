@@ -6,6 +6,9 @@ Merhaba! Ben Tayrus. İktisat okuyorum. Aynı zamanda yazılım geliştiriyorum 
 - 💼 **Tayrus** şirketinin kurucusuyum.  
 - 🔥 Yazılım, girişimcilik ve siber güvenlik konularına ilgim var.  
 - 🌱 Şu anda **JavaScript, C# ve Linux** üzerine çalışıyorum.  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&width=435&lines=Yazılım+Geliştirici;Siber+Güvenlik+Uzmanı;Mobil+Uygulama+Geliştirici" />
+</h3>
 
 ## 🚀 Kullandığım Teknolojiler  
 <div align="center">
