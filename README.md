@@ -21,5 +21,6 @@ Merhaba! Ben Tayrus. İktisat okuyorum. Aynı zamanda yazılım geliştiriyorum 
 
 ## 📊 GitHub Aktivite Grafiğim  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayrus-co&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayrus-co&theme=github-dark" />
+
 </p>
