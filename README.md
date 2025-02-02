@@ -13,8 +13,13 @@ Merhaba! Ben Tayrus. İktisat okuyorum. Aynı zamanda yazılım geliştiriyorum 
 </div>
 
 ## 📊 GitHub İstatistiklerim  
-![Tayrus-co's GitHub Stats]
+![Tayrus-co's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayrus-co&show_icons=true&theme=radical)
 
 ## 📫 Bana Ulaşın  
 📩 **Email:** iletisim@tahapelen.com  
 🔗 **LinkedIn:** [Profilim](https://www.linkedin.com/in/taha-pelen-9324a1291/)  
+
+## 📊 GitHub Aktivite Grafiğim  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayrus-co&theme=radical" />
+</p>
